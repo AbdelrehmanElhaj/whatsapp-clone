@@ -28,7 +28,7 @@ cd whatsapp-clone
 ### 2️⃣ Setup Backend  
 1. Navigate to the backend folder:  
    ```bash
-   cd backend
+   cd whatsapp-api
    ```
 2. Install dependencies and start the server:  
    ```bash
@@ -39,7 +39,7 @@ cd whatsapp-clone
 ### 3️⃣ Setup Frontend  
 1. Navigate to the frontend folder:  
    ```bash
-   cd frontend
+   cd whatsapp-frontend
    ```
 2. Install dependencies and start the Angular app:  
    ```bash
